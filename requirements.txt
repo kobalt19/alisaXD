@@ -1,0 +1,6 @@
+Flask-SQLAlchemy==3.0.3
+Flask==2.2.3
+requests==2.25.1
+SQLAlchemy==2.0.7
+Werkzeug==2.2.3
+wheel==0.37.1
